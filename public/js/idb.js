@@ -1,6 +1,6 @@
 // create variable to hold db connection
 let db;
-// establish a connection to IndexedDB database called 'Show-Me-The-Money' and set it to version 1
+// establish a connection to IndexedDB database called 'budget-taker' and set it to version 1
 const request = indexedDB.open('budget-taker', 1);
 
 // this event will emit if the database version changes (nonexistant to version 1, v1 to v2, etc.)
