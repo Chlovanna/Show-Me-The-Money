@@ -17,7 +17,14 @@ SO THAT my account balance is accurate when I am traveling
 **Mock-Up**
 - image.png
 
+**Deployment**
+https://show-me-the-money-2.herokuapp.com/
+
 **License**
+- MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT) in the late 1980s. As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license 
+compatibility.
 
 **Contributors**
-Ashley Lawrence
+- Ashley Lawrence
