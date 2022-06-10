@@ -18,7 +18,7 @@ SO THAT my account balance is accurate when I am traveling
 - image.png
 
 **Deployment**
-https://show-me-the-money-2.herokuapp.com/
+- https://show-me-the-money-2.herokuapp.com/
 
 **License**
 - MIT
