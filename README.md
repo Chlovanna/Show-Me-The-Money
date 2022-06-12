@@ -2,7 +2,7 @@
 Progressive Web Applications (PWA) Challenge: Budget Tracker
 ## Progressive Web Applications (PWA) Challenge: Budget Tracker
 The PWA allows users to keep track of their budget while offline; as the online functionalities are accessible. 
-![alt text](https://github.com/Chlovanna/Show-Me-The-Money/main/assets/img/bt-app.png)
+- ![alt text](https://github.com/Chlovanna/Show-Me-The-Money/main/assets/img/bt.png)
 **User Story**
 - AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
