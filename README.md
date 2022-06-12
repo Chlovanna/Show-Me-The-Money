@@ -16,8 +16,6 @@ SO THAT my account balance is accurate when I am traveling
 - WHEN the user reestablishes an internet connection
 - THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
-**Mock-Up**
-- image.png
 
 **Deployment**
 - https://show-me-the-money-2.herokuapp.com/
