@@ -29,6 +29,7 @@ SO THAT my account balance is accurate when I am traveling
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 - ![CSS5](https://img.shields.io/badge/-CSS5-1572B6?style=plastic&logo=css5&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+- ![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=plastic&logo=manifest&logoColor=white)
 
 
 **License**
