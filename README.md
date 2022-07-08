@@ -21,8 +21,10 @@ SO THAT my account balance is accurate when I am traveling
 - https://show-me-the-money-2.herokuapp.com/
 
 **Technologies**
-![Javascript](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=black)
-![Javascript](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
+
+- ![Javascript](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=bootstrap&logoColor=white)
 
 
 **License**
