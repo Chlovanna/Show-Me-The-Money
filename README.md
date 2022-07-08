@@ -24,7 +24,11 @@ SO THAT my account balance is accurate when I am traveling
 
 - ![Javascript](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=black)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=bootstrap&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/-Express-000000?style=plastic&logo=express&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+- ![CSS5](https://img.shields.io/badge/-CSS5-1572B6?style=plastic&logo=css5&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
 
 
 **License**
