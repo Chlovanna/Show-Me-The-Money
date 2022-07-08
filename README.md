@@ -20,6 +20,11 @@ SO THAT my account balance is accurate when I am traveling
 **Deployment**
 - https://show-me-the-money-2.herokuapp.com/
 
+**Technologies**
+![Javascript](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=black)
+![Javascript](https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
+
+
 **License**
 - MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
